@@ -1,0 +1,23 @@
+{
+  "name": "treina_web",
+  "version": "1.0.0",
+  "description": "aulas nodejs",
+  "main": "app.js",
+  "dependencies": {
+    "promise": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoswlrich/aulas_nodejs.git"
+  },
+  "author": "Marcos Wlrich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcoswlrich/aulas_nodejs/issues"
+  },
+  "homepage": "https://github.com/marcoswlrich/aulas_nodejs#readme"
+}
